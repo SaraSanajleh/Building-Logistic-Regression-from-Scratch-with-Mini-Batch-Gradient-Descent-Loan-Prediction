@@ -1,0 +1,1 @@
+# Building-Logistic-Regression-from-Scratch-with-Mini-Batch-Gradient-Descent-Loan-Prediction
